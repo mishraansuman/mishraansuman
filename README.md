@@ -1,4 +1,4 @@
-<img src="Ansuman MISHRA final final.png">
+<img src="AnsumanGit.png" width="100%" align="left">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansmis-lit" alt="ansmis-lit" /></p>
 
