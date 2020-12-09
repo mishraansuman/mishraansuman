@@ -1,11 +1,11 @@
 <h2>Ansuman Mishra</h2>
 <h3>Application Developer(Web, iOS & Android)</h3><br>
--[x] Node.js
--[x] React.js
--[x] Bootstrap
--[x] Mongodb
--[x] SQL
--[x] Selenium(Python)
+- [x] Node.js
+- [x] React.js
+- [x] Bootstrap
+- [x] Mongodb
+- [x] SQL
+- [x] Selenium(Python)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansmis-lit&style=plastic&color=blueviolet" alt="ansmis-lit" /></p>
 
