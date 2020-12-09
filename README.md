@@ -15,7 +15,7 @@
 - **💬 Ask me about** **React Native, React.js, JavaScript, Node.js & Bootstrap**.
 - **📫 How to reach me** [**me@ansmis.tech**](mailto:me@ansmis.tech).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansmis-lit&show_icons=true" alt="ansmis-lit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansmis-lit&show_icons=true&theme=dark" alt="ansmis-lit" /></p>
 
 Join My Professional Network
 - [linkedin](https://www.linkedin.com/in/ansuman-mishra-software-developer/)
