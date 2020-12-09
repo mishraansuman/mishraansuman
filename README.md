@@ -1,4 +1,5 @@
-<img src="banner.png" width="100%" align="left">
+<h2>Ansuman Mishra</h2>
+<h5>Application Developer(Web, iOS & Android) || { Node.js ; React.js ; React Native ; Bootstrap ; Mongodb ; SQL ; Selenium(Python) }</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansmis-lit&style=plastic&color=blueviolet" alt="ansmis-lit" /></p>
 
